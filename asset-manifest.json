@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/eco-houses/static/css/main.f77acb41.css",
+    "main.js": "/eco-houses/static/js/main.3e50306c.js",
+    "static/js/787.e40896b2.chunk.js": "/eco-houses/static/js/787.e40896b2.chunk.js",
+    "static/media/home-img.jpg": "/eco-houses/static/media/home-img.e49a1dbded12f6e846f8.jpg",
+    "static/media/eco-4.jpg": "/eco-houses/static/media/eco-4.18ff47a31f471627c8bd.jpg",
+    "static/media/eco-16.jpg": "/eco-houses/static/media/eco-16.24980a0126e0c9e3035d.jpg",
+    "static/media/eco-12.jpg": "/eco-houses/static/media/eco-12.fec9f16aae29c6e9edae.jpg",
+    "static/media/eco-5.jpg": "/eco-houses/static/media/eco-5.0a8b197e37387afe3d48.jpg",
+    "static/media/eco-13.jpg": "/eco-houses/static/media/eco-13.a770141bb7b4be0a9b25.jpg",
+    "static/media/eco-2.jpg": "/eco-houses/static/media/eco-2.47de46db0c6ef3e27b43.jpg",
+    "static/media/eco-6.jpg": "/eco-houses/static/media/eco-6.8c365a308cd9f5d53ccd.jpg",
+    "static/media/eco-8.jpg": "/eco-houses/static/media/eco-8.efd0c40d418ea521e11f.jpg",
+    "static/media/eco-7.jpg": "/eco-houses/static/media/eco-7.2c2d401db7b3a0ee7c0a.jpg",
+    "static/media/eco-3.jpg": "/eco-houses/static/media/eco-3.f93979bd6c04e38874a6.jpg",
+    "static/media/eco-1.jpg": "/eco-houses/static/media/eco-1.2116fef036ed0badc6e1.jpg",
+    "static/media/googleIcon.svg": "/eco-houses/static/media/googleIcon.a2a9c863d781c3e8abab4e7390cde6cb.svg",
+    "index.html": "/eco-houses/index.html",
+    "static/media/bathtubIcon.svg": "/eco-houses/static/media/bathtubIcon.b95c8ddb4dae960083f7c6ba713cbb50.svg",
+    "static/media/badgeIcon.svg": "/eco-houses/static/media/badgeIcon.6a60b5bc1167fef5e6d0.svg",
+    "static/media/shareIcon.svg": "/eco-houses/static/media/shareIcon.cbe96fad91328dae35508b04182f4a7e.svg",
+    "static/media/bedIcon.svg": "/eco-houses/static/media/bedIcon.eefa75b10479ecc5ec087e92666866eb.svg",
+    "static/media/lockIcon.svg": "/eco-houses/static/media/lockIcon.a38a1b56168bd1199de4.svg",
+    "static/media/visibilityIcon.svg": "/eco-houses/static/media/visibilityIcon.d42e2dff8b09be94d6d209f0e86cf2d3.svg",
+    "static/media/editIcon.svg": "/eco-houses/static/media/editIcon.9b527df04c00d16681c2b5da9c778dfc.svg",
+    "static/media/personIcon.svg": "/eco-houses/static/media/personIcon.60c17ce32265f6273287.svg",
+    "static/media/deleteIcon.svg": "/eco-houses/static/media/deleteIcon.a53e22036f5f02bda3f291072d6c5f80.svg",
+    "static/media/keyboardArrowRightIcon.svg": "/eco-houses/static/media/keyboardArrowRightIcon.8cee54bec29003f4c3faa8f2acfa6de8.svg",
+    "static/media/homeIcon.svg": "/eco-houses/static/media/homeIcon.09f28a7193ed1624e778ad88fc51ab56.svg",
+    "main.f77acb41.css.map": "/eco-houses/static/css/main.f77acb41.css.map",
+    "main.3e50306c.js.map": "/eco-houses/static/js/main.3e50306c.js.map",
+    "787.e40896b2.chunk.js.map": "/eco-houses/static/js/787.e40896b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f77acb41.css",
+    "static/js/main.3e50306c.js"
+  ]
+}
