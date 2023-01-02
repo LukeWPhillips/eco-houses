@@ -1,20 +1,20 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import eco_1 from "../assets/jpg/eco-1.jpg";
-import eco_2 from "../assets/jpg/eco-2.jpg";
-import eco_3 from "../assets/jpg/eco-3.jpg";
-import eco_4 from "../assets/jpg/eco-4.jpg";
-import eco_5 from "../assets/jpg/eco-5.jpg";
-import eco_6 from "../assets/jpg/eco-6.jpg";
-import eco_7 from "../assets/jpg/eco-7.jpg";
-import eco_8 from "../assets/jpg/eco-8.jpg";
-import eco_10 from "../assets/jpg/eco-10.jpg";
+import eco_1 from "../assets/jpg/eco-1.jpeg";
+import eco_2 from "../assets/jpg/eco-2.jpeg";
+import eco_3 from "../assets/jpg/eco-3.jpeg";
+import eco_4 from "../assets/jpg/eco-4.jpeg";
+import eco_5 from "../assets/jpg/eco-5.jpeg";
+import eco_6 from "../assets/jpg/eco-6.jpeg";
+import eco_7 from "../assets/jpg/eco-7.jpeg";
+import eco_8 from "../assets/jpg/eco-8.jpeg";
+import eco_10 from "../assets/jpg/eco-10.jpeg";
 
-import eco_12 from "../assets/jpg/eco-12.jpg";
-import eco_13 from "../assets/jpg/eco-13.jpg";
-import eco_14 from "../assets/jpg/eco-14.jpg";
+import eco_12 from "../assets/jpg/eco-11.jpeg";
+import eco_13 from "../assets/jpg/eco-12.jpeg";
+import eco_14 from "../assets/jpg/eco-13.jpeg";
 
-import eco_16 from "../assets/jpg/eco-16.jpg";
+import eco_16 from "../assets/jpg/eco-14.jpeg";
 
 function Gallery() {
   return (

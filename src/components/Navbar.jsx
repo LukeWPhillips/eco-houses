@@ -48,7 +48,7 @@ function Navbar() {
               </svg>
             </div>
             <ul className=" flex flex-col items-center justify-between min-h-[250px]">
-              <NavLink to="/home" onClick={() => setIsNavOpen(false)}>
+              <NavLink to="/eco-houses" onClick={() => setIsNavOpen(false)}>
                 <li className="border-b border-gray-400 my-8 uppercase">
                   HOME
                 </li>

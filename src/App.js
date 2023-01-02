@@ -22,7 +22,7 @@ function App() {
     <>
       <Router>
         <Routes>
-          <Route path="/home" element={<Explore />} />
+          <Route exact path="/eco-houses" element={<Explore />} />
           <Route path="/properties" element={<Properties />} />
 
           <Route path="/profile" element={<PrivateRoute />}>
