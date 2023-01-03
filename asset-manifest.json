@@ -1,20 +1,22 @@
 {
   "files": {
     "main.css": "/eco-houses/static/css/main.f77acb41.css",
-    "main.js": "/eco-houses/static/js/main.3e50306c.js",
+    "main.js": "/eco-houses/static/js/main.8e72e07c.js",
     "static/js/787.e40896b2.chunk.js": "/eco-houses/static/js/787.e40896b2.chunk.js",
     "static/media/home-img.jpg": "/eco-houses/static/media/home-img.e49a1dbded12f6e846f8.jpg",
-    "static/media/eco-4.jpg": "/eco-houses/static/media/eco-4.18ff47a31f471627c8bd.jpg",
-    "static/media/eco-16.jpg": "/eco-houses/static/media/eco-16.24980a0126e0c9e3035d.jpg",
-    "static/media/eco-12.jpg": "/eco-houses/static/media/eco-12.fec9f16aae29c6e9edae.jpg",
-    "static/media/eco-5.jpg": "/eco-houses/static/media/eco-5.0a8b197e37387afe3d48.jpg",
-    "static/media/eco-13.jpg": "/eco-houses/static/media/eco-13.a770141bb7b4be0a9b25.jpg",
-    "static/media/eco-2.jpg": "/eco-houses/static/media/eco-2.47de46db0c6ef3e27b43.jpg",
-    "static/media/eco-6.jpg": "/eco-houses/static/media/eco-6.8c365a308cd9f5d53ccd.jpg",
-    "static/media/eco-8.jpg": "/eco-houses/static/media/eco-8.efd0c40d418ea521e11f.jpg",
-    "static/media/eco-7.jpg": "/eco-houses/static/media/eco-7.2c2d401db7b3a0ee7c0a.jpg",
-    "static/media/eco-3.jpg": "/eco-houses/static/media/eco-3.f93979bd6c04e38874a6.jpg",
-    "static/media/eco-1.jpg": "/eco-houses/static/media/eco-1.2116fef036ed0badc6e1.jpg",
+    "static/media/eco-2.jpeg": "/eco-houses/static/media/eco-2.572718629a25279e318d.jpeg",
+    "static/media/eco-1.jpeg": "/eco-houses/static/media/eco-1.6301cf77348273345436.jpeg",
+    "static/media/eco-10.jpeg": "/eco-houses/static/media/eco-10.b5d29b32a85edb42ebdc.jpeg",
+    "static/media/eco-4.jpeg": "/eco-houses/static/media/eco-4.ff3b679dc2d658e288f0.jpeg",
+    "static/media/eco-12.jpeg": "/eco-houses/static/media/eco-12.911134d1c9224cf082e5.jpeg",
+    "static/media/eco-8.jpeg": "/eco-houses/static/media/eco-8.1d8354560cf0f4abeafc.jpeg",
+    "static/media/eco-6.jpeg": "/eco-houses/static/media/eco-6.d07a6923336edfe24332.jpeg",
+    "static/media/eco-13.jpeg": "/eco-houses/static/media/eco-13.c12682af337b65454a7f.jpeg",
+    "static/media/eco-7.jpeg": "/eco-houses/static/media/eco-7.aeb52286d63defdc719c.jpeg",
+    "static/media/eco-14.jpeg": "/eco-houses/static/media/eco-14.cefefc8be5769658f1bf.jpeg",
+    "static/media/eco-5.jpeg": "/eco-houses/static/media/eco-5.3ed4bef64579c3c43a34.jpeg",
+    "static/media/eco-11.jpeg": "/eco-houses/static/media/eco-11.9be86854b884adade881.jpeg",
+    "static/media/eco-3.jpeg": "/eco-houses/static/media/eco-3.aabc6fae1819c48708f1.jpeg",
     "static/media/googleIcon.svg": "/eco-houses/static/media/googleIcon.a2a9c863d781c3e8abab4e7390cde6cb.svg",
     "index.html": "/eco-houses/index.html",
     "static/media/bathtubIcon.svg": "/eco-houses/static/media/bathtubIcon.b95c8ddb4dae960083f7c6ba713cbb50.svg",
@@ -29,11 +31,11 @@
     "static/media/keyboardArrowRightIcon.svg": "/eco-houses/static/media/keyboardArrowRightIcon.8cee54bec29003f4c3faa8f2acfa6de8.svg",
     "static/media/homeIcon.svg": "/eco-houses/static/media/homeIcon.09f28a7193ed1624e778ad88fc51ab56.svg",
     "main.f77acb41.css.map": "/eco-houses/static/css/main.f77acb41.css.map",
-    "main.3e50306c.js.map": "/eco-houses/static/js/main.3e50306c.js.map",
+    "main.8e72e07c.js.map": "/eco-houses/static/js/main.8e72e07c.js.map",
     "787.e40896b2.chunk.js.map": "/eco-houses/static/js/787.e40896b2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f77acb41.css",
-    "static/js/main.3e50306c.js"
+    "static/js/main.8e72e07c.js"
   ]
 }
