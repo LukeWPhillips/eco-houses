@@ -68,15 +68,21 @@ function Navbar() {
         </section>
 
         <ul className="desktop-menu hidden space-x-8 lg:flex">
-          <li>
-            <a href="/home">Home</a>
-          </li>
-          <li>
-            <a href="/properties">Properties</a>
-          </li>
-          <li>
-            <a href="/profile">Profile</a>
-          </li>
+          <NavLink to="/eco-houses">
+            <li>
+              <a href="/home">Home</a>
+            </li>
+          </NavLink>
+          <NavLink to="/properties">
+            <li>
+              <a href="/properties">Properties</a>
+            </li>
+          </NavLink>
+          <NavLink to="/profile">
+            <li>
+              <a href="/profile">Profile</a>
+            </li>
+          </NavLink>
         </ul>
       </nav>
     </div>
