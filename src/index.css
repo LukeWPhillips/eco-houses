@@ -949,6 +949,7 @@ button {
 
 .lisitingsList {
   padding: 0;
+
 }
 
 .formLabel {
@@ -1073,14 +1074,28 @@ button {
 }
 
 .search-wrapper input {
+  display: flex;
+  justify-content: flex-end;
   margin-left: 10px;
   border-radius: 5px;
   width: 10rem;
   height: 2rem;
+  caret-color: transparent;
+
 }
 
+@media (min-width: 1024px) {
+  .search-wrapper input {
+    margin-left: 10px;
+    border-radius: 5px;
+    width: 20rem;
+    height: 2rem;
+  }
+}
+
+
 .properties-main {
-  height: 100vh;
+  height: fit-content;
 }
 
 .footer {

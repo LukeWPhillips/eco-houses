@@ -73,7 +73,7 @@ function Offers() {
           </label>
           <input
             type="number"
-            className="input w-full max-w-xs"
+            className="input"
             name="bedrooms"
             id="bedrooms"
             onChange={selectBedrooms}
