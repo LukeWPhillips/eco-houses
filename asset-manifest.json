@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/eco-houses/static/css/main.f77acb41.css",
-    "main.js": "/eco-houses/static/js/main.8e72e07c.js",
+    "main.css": "/eco-houses/static/css/main.40503ccc.css",
+    "main.js": "/eco-houses/static/js/main.a3837dda.js",
     "static/js/787.e40896b2.chunk.js": "/eco-houses/static/js/787.e40896b2.chunk.js",
     "static/media/home-img.jpg": "/eco-houses/static/media/home-img.e49a1dbded12f6e846f8.jpg",
     "static/media/eco-2.jpeg": "/eco-houses/static/media/eco-2.572718629a25279e318d.jpeg",
@@ -30,12 +30,12 @@
     "static/media/deleteIcon.svg": "/eco-houses/static/media/deleteIcon.a53e22036f5f02bda3f291072d6c5f80.svg",
     "static/media/keyboardArrowRightIcon.svg": "/eco-houses/static/media/keyboardArrowRightIcon.8cee54bec29003f4c3faa8f2acfa6de8.svg",
     "static/media/homeIcon.svg": "/eco-houses/static/media/homeIcon.09f28a7193ed1624e778ad88fc51ab56.svg",
-    "main.f77acb41.css.map": "/eco-houses/static/css/main.f77acb41.css.map",
-    "main.8e72e07c.js.map": "/eco-houses/static/js/main.8e72e07c.js.map",
+    "main.40503ccc.css.map": "/eco-houses/static/css/main.40503ccc.css.map",
+    "main.a3837dda.js.map": "/eco-houses/static/js/main.a3837dda.js.map",
     "787.e40896b2.chunk.js.map": "/eco-houses/static/js/787.e40896b2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f77acb41.css",
-    "static/js/main.8e72e07c.js"
+    "static/css/main.40503ccc.css",
+    "static/js/main.a3837dda.js"
   ]
 }
